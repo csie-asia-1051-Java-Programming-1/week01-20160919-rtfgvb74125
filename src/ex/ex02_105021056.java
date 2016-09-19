@@ -14,6 +14,8 @@ public class ex02_105021056 {
 		 Scanner scn = new Scanner(System.in);
 	        int a = scn.nextInt();
 	       
+	        
+	        
 	        System.out.println(a/0.45359);
 	}
 

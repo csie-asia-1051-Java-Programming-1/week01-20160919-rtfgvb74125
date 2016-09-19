@@ -12,7 +12,7 @@ public class ex01_105021056 {
 		 Scanner scn = new Scanner(System.in);
 	        int a = scn.nextInt();
 	       
-	        System.out.println(a/(9/5)-32);
+	        System.out.println(a/(9.0/5.0)-32);
 	}
 
 }

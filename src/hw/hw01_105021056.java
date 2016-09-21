@@ -4,11 +4,14 @@ package hw;
  * Date: 2016/09/19
  * Author: 105021056 王家恩
  */
+import java.util.Scanner;
 public class hw01_105021056 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+Scanner scn = new Scanner(System.in);
+int hw = scn.nextInt();
+System.out.println(Math.ceil(Math.log(hw))/Math.log(2));
 	}
 
 }

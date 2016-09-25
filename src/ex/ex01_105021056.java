@@ -13,6 +13,7 @@ public class ex01_105021056 {
 	        int a = scn.nextInt();
 	       
 	        
+	    
 	        
 	        System.out.println(a/(9.0/5.0)-32);
 	}

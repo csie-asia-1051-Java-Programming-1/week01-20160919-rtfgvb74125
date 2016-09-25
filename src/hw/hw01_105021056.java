@@ -11,6 +11,7 @@ public class hw01_105021056 {
 		// TODO Auto-generated method stub
 Scanner scn = new Scanner(System.in);
 int hw = scn.nextInt();
+
 System.out.println ((int)(Math.log(hw)/Math.log(2))+1);
 	}
 
